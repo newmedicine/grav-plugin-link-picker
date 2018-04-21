@@ -1,3 +1,5 @@
+# This was all nicked from 
+
 # Grav Editor Buttons Plugin
 
 The **Editor Buttons Plugin** for [Grav](http://github.com/getgrav/grav) adds additional buttons to the Grav Admin Editor.
